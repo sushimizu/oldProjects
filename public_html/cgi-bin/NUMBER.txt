@@ -1,0 +1,11 @@
+(dp0
+S'win'
+p1
+I1
+sS'guesses'
+p2
+I10
+sS'number'
+p3
+I194
+s.
